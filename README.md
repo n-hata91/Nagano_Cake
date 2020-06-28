@@ -1,3 +1,12 @@
 # Nagano_Cake
-An e-commerce site developed by a team 'gem-vibrant'
+An e-commerce site developed by a team 'gem-vibrant'  
 
+## ソース管理ルール（カリキュラム抜粋）  
+>
+>誰もが自由に、好き勝手にmasterブランチにマージしたり、お互いの修正したソースがかぶってしまったり、動かない状態にも関わらずmasterブランチにマージされたり>
+>
+>*Gitでのレビュー、プルリクエスト  
+>-TeamOrganizationの機能でソース管理  
+>-ブランチのマージは、プルリクエストのレビューでOKをもらえたら。  
+>-プルリクエストしたら、Slackでレビューの依頼をするとわかりやすい。
+>-誰がどのブランチを使っているのか、ブランチ名はルールを決めましょう。
